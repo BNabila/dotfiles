@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benzait.nabila@gmail.com
+	name = nabila benzait
